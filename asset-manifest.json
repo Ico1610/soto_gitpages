@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/soto_gitpages/static/css/main.f855e6bc.css",
+    "main.js": "/soto_gitpages/static/js/main.2d75f620.js",
+    "static/js/453.83da0c96.chunk.js": "/soto_gitpages/static/js/453.83da0c96.chunk.js",
+    "static/media/logo.svg": "/soto_gitpages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/soto_gitpages/index.html",
+    "main.f855e6bc.css.map": "/soto_gitpages/static/css/main.f855e6bc.css.map",
+    "main.2d75f620.js.map": "/soto_gitpages/static/js/main.2d75f620.js.map",
+    "453.83da0c96.chunk.js.map": "/soto_gitpages/static/js/453.83da0c96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2d75f620.js"
+  ]
+}
