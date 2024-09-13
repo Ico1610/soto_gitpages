@@ -2,7 +2,6 @@
   "name": "soto_gitpages",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://ico1610.github.io./soto_gitpages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
